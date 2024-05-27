@@ -5,14 +5,14 @@
 ## Task 1
 1000 на 1000 юнитов. Каждый кадр ищутся цели для всех юнитов, у которых в данный момент нет цели. Цели указываются линией. Решение через разбиение пространства на грид для оптимизации. Можно настроить размер карты, размер грида и количество юнитов через инспектор.
 
-<img src="https://github.com/copetonrob/RTSTest/tree/main/img/Task1.gif" width="600"/>
+<img src="https://github.com/copetonrob/RTSTest/blob/main/img/Task1.gif" width="600"/>
 
 ## Task 2
 Турель стреляет по цели на упреждение. Можно настроить частоту стрельбы и скорость пули. У цели можно настроить скорость движения и размер области для бега.
 
-<img src="https://github.com/copetonrob/RTSTest/tree/main/img/Task2.gif" width="600"/>
+<img src="https://github.com/copetonrob/RTSTest/blob/main/img/Task2.gif" width="600"/>
 
 ## Task 3
 UI магазин из 500 элементов (можно настраивать количество из инспектора). Все кнопки выводят свой текст. Магазин имеет бесконечную прокрутку.
 
-<img src="https://github.com/copetonrob/RTSTest/tree/main/img/Task3.gif" width="600"/>
+<img src="https://github.com/copetonrob/RTSTest/blob/main/img/Task3.gif" width="600"/>
